@@ -5,8 +5,13 @@ The Advanced Driver Assistance Systems (ADAS) aim to bring intelligence to the v
 The project consists of designing and implementing an ADAS solution that contains three main features, which are Driver Sleepiness Detection, Intelligent Parking and Eye Guided Automotive Lighting. The system is connected to an interactive dashboard based on CAN bus. The idea is to use the CAN bus technology to collect information from different sensors and to control different devices of different ADAS system functions.
 
 # Authors
-
-
+List of team members :
+  ALOUANI Moncif
+  BAROUDI Sami
+  BELGHITI Kaoutar
+  ELKARAKHI Soukayna 
+  FASSI Nour 
+  MIRALI Hicham 
 
 # Instructor
 Mansouri anas 
