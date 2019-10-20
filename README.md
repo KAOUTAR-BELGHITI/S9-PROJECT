@@ -6,12 +6,12 @@ The project consists of designing and implementing an ADAS solution that contain
 
 # Authors
 List of team members :
-  ALOUANI Moncif
-  BAROUDI Sami
-  BELGHITI Kaoutar
-  ELKARAKHI Soukayna 
-  FASSI Nour 
-  MIRALI Hicham 
+  - ALOUANI Moncif
+  - BAROUDI Sami
+  - BELGHITI Kaoutar
+  - ELKARAKHI Soukayna 
+  - FASSI Nour 
+  - MIRALI Hicham 
 
 # Instructor
-Mansouri anas 
+Mansouri Anas 
